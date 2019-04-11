@@ -1,0 +1,1 @@
+web: gunicorn spike_analytics.wsgi
